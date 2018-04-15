@@ -3,7 +3,7 @@ If your filter is damaged, dirt can enter and damage the motor.
 ## Types of Filters
 - Foam filters. These can be washed when dirty. Only change when they are damaged. 
 - Paper filters. These only need to be changed every 30,000 kilometers.
-# Removing the old filter on your bike
+# Removing the old filter
 ## If your filter is located under the tank. 
 1. Remove the cover of the tank using a screw driver. 
 2. Disconnect the hose from the radiator
